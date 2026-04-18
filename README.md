@@ -1,53 +1,53 @@
 # ⚡ <samp>Ahrar_Ahmad // Intelligence_Systems_Engineer</samp>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=200&section=header&text=Ahrar%20Ahmad&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=600&lines=AHRAR+AHMAD;INTELLIGENCE+ENGINEER;GEN+AI+SPECIALIST" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahrar-1898&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahrar-1898&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=header&text=Building%20Neural%20Architectures&fontSize=25&animation=fadeIn" width="100%" />
 </p>
 
-### 👤 <samp>Professional Profile</samp>
-I am a **Machine Learning Engineer** and **Generative AI Specialist** pursuing a **B.Tech in Computer Science Engineering** at **IEC College of Engineering & Technology** (2023–2027). I specialize in architecting end-to-end AI solutions, with a deep focus on **Retrieval-Augmented Generation (RAG)** and the deployment of scalable neural networks.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahrar-1898&theme=tokyonight&no-bg=true&column=7&margin-w=15" alt="trophies" />
+</p>
 
-* 🧠 **Generative AI:** Engineering advanced retrieval systems and context-aware agents using **LangChain** and **LLM** frameworks.
-* 🛠️ **Backend Engineering:** Architecting robust, high-throughput REST APIs utilizing **FastAPI** and **Flask**.
-* 🔬 **Neural Architectures:** Deep technical expertise in designing and optimizing **ANN, CNN, and LSTM** models.
-* 📊 **Data Science:** Leveraging **Feature Engineering** and **Regression** techniques to extract actionable insights from complex datasets.
+---
+
+### 🌐 <samp>3D Neural Activity</samp>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</p>
+
+---
+
+### 👤 <samp>Professional Profile</samp>
+I am a **Machine Learning Engineer** and **Generative AI Specialist** at **IEC College of Engineering & Technology**. I architect end-to-end AI solutions, focusing on **Retrieval-Augmented Generation (RAG)** and high-throughput neural systems.
+
+* 🧠 **Generative AI:** Engineering advanced retrieval systems (RAG) using **LangChain**.
+* 🛠️ **Backend Engineering:** Architecting robust REST APIs with **FastAPI** and **Flask**.
+* 🔬 **Neural Architectures:** Expert in designing **ANN, CNN, and LSTM** models.
 
 ---
 
 ### 🛠️ <samp>Technical Arsenal</samp>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,fastapi,flask,mysql,postgres,docker,git,vscode,github,linux,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,fastapi,flask,mysql,postgres,docker,git,vscode,github,linux,tensorflow,pytorch&theme=dark" />
 </p>
 
 ---
 
-### 🏆 <samp>Project Portfolio</samp>
+### 📊 <samp>System Performance</samp>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahrar-1898&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00b4d8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahrar-1898&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8" width="48%" />
+</p>
 
-| Intelligence System | Tech Stack | Impact & Highlights |
-| :--- | :--- | :--- |
-| **AI Desktop Assistant** | Python · Node.js · JS | Voice-interactive automation with real-time retrieval capabilities. |
-| **Insurance ML Predictor** | ML · Python · HTML | End-to-end regression model for predictive premium forecasting. |
-| **Task Master** | Flask · Python · CSS | Scalable web-based task management with integrated backend logic. |
-| **Laptop Price Predictor**| Machine Learning | Precision-based hardware pricing engine driven by brand specifications. |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahrar-1898&theme=tokyonight&hide_border=true&stroke=00b4d8" alt="streak" />
+</p>
 
 ---
-
-### 📊 <samp>Performance Metrics</samp>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahrar-1898&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahrar-1898&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-### 📈 <samp>Activity Velocity</samp>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahrar-1898&theme=tokyo-night&area=true&hide_border=true" width="100%" />
-</p>
 
 ### 🌌 <samp>24/7 Neural Pulse</samp>
 <p align="center">
