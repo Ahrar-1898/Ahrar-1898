@@ -1,4 +1,4 @@
-# 🪐 <samp>System://Ahrar_Ahmad/GenAI_Neural_Network</samp>
+# 🪐Ahrar_Ahmad/GenAI_Neural_Network</samp>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Ahrar%20Ahmad&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
@@ -39,11 +39,18 @@
 </p>
 
 ### 🌌 <samp>24/7 System Pulse</samp>
+# 🪐 System Profile: Ahrar Ahmad
+... (Your Intro and Skills) ...
+
+### 📊 Live System Status
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahrar-1898&show_icons=true&theme=tokyonight" width="48%" />
+</p>
+
+### 🌌 24/7 System Pulse
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ahrar-1898/Ahrar-1898/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
----
 
 ### 📫 <samp>Establish Protocol</samp>
 <p align="center">
