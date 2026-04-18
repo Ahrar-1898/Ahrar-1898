@@ -1,55 +1,51 @@
-# ⚡ <samp>Ahrar_Ahmad // Intelligence_Systems_Engineer</samp>
+# <p align="center">🚀 <samp>Ahrar Ahmad // Intelligence Systems Engineer</samp></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=600&lines=AHRAR+AHMAD;INTELLIGENCE+ENGINEER;GEN+AI+SPECIALIST" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1215&height=180&section=header&text=AHRAR%20AHMAD&fontSize=80&fontColor=00b4d8&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=header&text=Building%20Neural%20Architectures&fontSize=25&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahrar-1898&theme=tokyonight&no-bg=true&column=7&margin-w=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahrar-1898&theme=tokyonight&no-bg=true&margin-w=15&column=7" alt="trophies" />
 </p>
 
 ---
 
-### 🌐 <samp>3D Neural Activity</samp>
+### 👤 <samp>Neural Profile</samp>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <p>I am a <b>Machine Learning Engineer</b> specializing in <b>Generative AI</b>. I architect end-to-end RAG systems and context-aware agents, bridging the gap between complex neural architectures and scalable production APIs.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Focus-RAG%20%26%20LLMs-00b4d8?style=for-the-badge" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahrar-1898&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&bg_color=00000000" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ <samp>Intelligence Stack</samp>
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow,pytorch,docker,linux,postgres,mongodb,git,js,react,nodejs&theme=dark" />
 </p>
 
 ---
 
-### 👤 <samp>Professional Profile</samp>
-I am a **Machine Learning Engineer** and **Generative AI Specialist** at **IEC College of Engineering & Technology**. I architect end-to-end AI solutions, focusing on **Retrieval-Augmented Generation (RAG)** and high-throughput neural systems.
-
-* 🧠 **Generative AI:** Engineering advanced retrieval systems (RAG) using **LangChain**.
-* 🛠️ **Backend Engineering:** Architecting robust REST APIs with **FastAPI** and **Flask**.
-* 🔬 **Neural Architectures:** Expert in designing **ANN, CNN, and LSTM** models.
-
----
-
-### 🛠️ <samp>Technical Arsenal</samp>
+### 📈 <samp>Activity Metrics</samp>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,fastapi,flask,mysql,postgres,docker,git,vscode,github,linux,tensorflow,pytorch&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahrar-1898&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00b4d8&bg_color=00000000" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahrar-1898&theme=tokyonight&hide_border=true&stroke=00b4d8&background=00000000" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Activity Graph" />
 </p>
 
 ---
 
-### 📊 <samp>System Performance</samp>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahrar-1898&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00b4d8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahrar-1898&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahrar-1898&theme=tokyonight&hide_border=true&stroke=00b4d8" alt="streak" />
-</p>
-
----
-
-### 🌌 <samp>24/7 Neural Pulse</samp>
+### 🌌 <samp>The Snake Protocol</samp>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ahrar-1898/Ahrar-1898/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
@@ -58,6 +54,6 @@ I am a **Machine Learning Engineer** and **Generative AI Specialist** at **IEC C
 
 ### 📫 <samp>Connect Protocol</samp>
 <p align="center">
-  <a href="https://linkedin.com/in/ahrar-cto" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ahrarsiddiqui74@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahrar-cto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ahrarsiddiqui74@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
