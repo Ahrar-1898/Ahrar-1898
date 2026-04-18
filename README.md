@@ -13,6 +13,18 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahrar-1898&theme=tokyonight&hide_border=true&stroke=00b4d8" alt="streak" />
 </p>
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOW -->
+<img src="https://komarev.com/ghpvc/?username=aryxn-builds&style=for-the-badge&color=ff4500&label=PROFILE+VIEWS" />
+&nbsp;
+<a href="https://github.com/aryxn-builds?tab=followers">
+  <img src="https://img.shields.io/github/followers/aryxn-builds?style=for-the-badge&color=ff6a00&labelColor=0d0d0d&label=FOLLOWERS" />
+</a>
+
+</div>
+
+---
 
 ### 👤 <samp>Professional Profile</samp>
 I am a **Machine Learning Engineer** and **Generative AI Specialist** pursuing a **B.Tech in Computer Science Engineering** at **IEC College of Engineering & Technology** (2023–2027). I specialize in architecting end-to-end AI solutions, with a deep focus on **Retrieval-Augmented Generation (RAG)** and the deployment of scalable neural networks.
@@ -23,11 +35,48 @@ I am a **Machine Learning Engineer** and **Generative AI Specialist** pursuing a
 * 📊 **Data Science:** Leveraging **Feature Engineering** and **Regression** techniques to extract actionable insights from complex datasets.
 
 ---
+## 🧠 Tech Stack & Arsenal
 
-### 🛠️ <samp>Technical Arsenal</samp>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,fastapi,flask,mysql,postgres,docker,git,vscode,github,linux,tensorflow,pytorch" />
-</p>
+<div align="center">
+
+**AI / ML / Computer Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**GenAI & LLM Stack**
+
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-ff4500?style=for-the-badge&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DBs-6D28D9?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-0EA5E9?style=for-the-badge&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-10B981?style=for-the-badge&logoColor=white)
+
+**Frontend & 3D**
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
 
 ---
 
