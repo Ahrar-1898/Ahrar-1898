@@ -13,12 +13,17 @@
   <a href="https://github.com/Ahrar-1898?tab=followers">
     <img src="https://img.shields.io/github/followers/Ahrar-1898?style=for-the-badge&color=4cc9f0&labelColor=0d0d0d&label=FOLLOWERS" />
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahrar-1898&theme=tokyonight&hide_border=true&stroke=00b4d8&background=0d0d0d00" height="28px" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahrar-1898&theme=tokyonight&no-bg=true&margin-w=15&column=7" width="90%" alt="trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahrar-1898&theme=tokyonight&hide_border=true&stroke=00b4d8" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahrar-1898&theme=tokyonight&no-bg=true&margin-w=15&column=7" width="100%" alt="Trophies" />
+</p>
+
+---
 
 ---
 
