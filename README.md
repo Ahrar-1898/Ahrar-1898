@@ -1,50 +1,55 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=200&section=header&text=Ahrar%20Ahmad&fontSize=80&animation=twinkling&fontAlignY=35" width="100%" /></p>
+# ⚡ <samp>Ahrar_Ahmad // Intelligence_Systems_Engineer</samp>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=200&section=header&text=Ahrar%20Ahmad&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ahrar-1898&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahrar-1898&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
----
+### 👤 <samp>Professional Profile</samp>
+I am a **Machine Learning Engineer** and **Generative AI Specialist** pursuing a **B.Tech in Computer Science Engineering** at **IEC College of Engineering & Technology** (2023–2027). I specialize in architecting end-to-end AI solutions, with a deep focus on **Retrieval-Augmented Generation (RAG)** and the deployment of scalable neural networks.
 
-### 🧬 <samp>Neural Profile: Ahrar Ahmad</samp>
-[cite_start]I am a **Machine Learning Engineer** and **GenAI Enthusiast** pursuing my **B.Tech in Computer Science Engineering** at **IEC College of Engineering & Technology**[cite: 4, 27, 28]. [cite_start]I architect intelligent systems that bridge the gap between complex research and scalable deployment.
-
-* [cite_start]🧠 **GenAI Architect:** Building robust **RAG** systems and **LLM** agents with **LangChain**[cite: 23].
-* [cite_start]🛠️ **Full-Stack AI:** Engineering high-throughput backends with **FastAPI** and **Flask**[cite: 25].
-* [cite_start]🔬 **Deep Learning:** Implementing advanced **ANN, CNN, and LSTM** architectures[cite: 22].
-* [cite_start]📊 **Predictive Analytics:** Precision modeling using **Regression** and **Feature Engineering**[cite: 21, 24].
+* 🧠 **Generative AI:** Engineering advanced retrieval systems and context-aware agents using **LangChain** and **LLM** frameworks.
+* 🛠️ **Backend Engineering:** Architecting robust, high-throughput REST APIs utilizing **FastAPI** and **Flask**.
+* 🔬 **Neural Architectures:** Deep technical expertise in designing and optimizing **ANN, CNN, and LSTM** models.
+* 📊 **Data Science:** Leveraging **Feature Engineering** and **Regression** techniques to extract actionable insights from complex datasets.
 
 ---
 
-### 🛠️ <samp>3D Tech Stack</samp>
+### 🛠️ <samp>Technical Arsenal</samp>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,fastapi,flask,mysql,docker,git,vscode,github,linux,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,fastapi,flask,mysql,postgres,docker,git,vscode,github,linux,tensorflow,pytorch" />
 </p>
 
 ---
 
-### 🏆 <samp>Intelligence Showcase</samp>
+### 🏆 <samp>Project Portfolio</samp>
 
-| Project | Tech Stack | Impact & Highlights |
+| Intelligence System | Tech Stack | Impact & Highlights |
 | :--- | :--- | :--- |
-| **AI Desktop Assistant** | Python · Node.js · JS | [cite_start]Voice-interactive automation with real-time retrieval[cite: 5, 6]. |
-| **Insurance ML Predictor**| Machine Learning · HTML | [cite_start]Predictive engine for real-time premium forecasting[cite: 8, 9]. |
-| **Task Master** | Flask · Python · CSS | [cite_start]Web-based CRUD operations with optimized backend logic[cite: 11, 13]. |
+| **AI Desktop Assistant** | Python · Node.js · JS | Voice-interactive automation with real-time retrieval capabilities. |
+| **Insurance ML Predictor** | ML · Python · HTML | End-to-end regression model for predictive premium forecasting. |
+| **Task Master** | Flask · Python · CSS | Scalable web-based task management with integrated backend logic. |
+| **Laptop Price Predictor**| Machine Learning | Precision-based hardware pricing engine driven by brand specifications. |
 
 ---
 
-### 📊 <samp>Live Performance Dashboard</samp>
-
+### 📊 <samp>Performance Metrics</samp>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahrar-1898&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahrar-1898&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+### 📈 <samp>Activity Velocity</samp>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahrar-1898&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </p>
 
-### 🌌 <samp>24/7 System Pulse</samp>
+### 🌌 <samp>24/7 Neural Pulse</samp>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ahrar-1898/Ahrar-1898/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
