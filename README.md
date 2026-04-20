@@ -58,15 +58,6 @@ I am a **Machine Learning Engineer** and **Generative AI Specialist** pursuing a
 ![MCP](https://img.shields.io/badge/MCP_Protocol-0EA5E9?style=for-the-badge&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-10B981?style=for-the-badge&logoColor=white)
 
-**Frontend & 3D**
-
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 **Languages & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
