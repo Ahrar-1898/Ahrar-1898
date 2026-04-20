@@ -110,8 +110,21 @@ I am a **Machine Learning Engineer** and **Generative AI Specialist** pursuing a
 
 ---
 
-### 📫 <samp>Connect Protocol</samp>
+### 📫 <samp>Connect with me </samp>
 <p align="center">
-  <a href="https://linkedin.com/in/ahrar-cto" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ahrarsiddiqui74@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahrar-cto" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:ahrarsiddiqui74@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Ahrar-1898" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://hub.docker.com/u/ahrar123" target="blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
 </p>
