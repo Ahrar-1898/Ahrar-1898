@@ -78,7 +78,18 @@ I am a **Machine Learning Engineer** and **Generative AI Specialist** pursuing a
 ---
 
 ### 📊 <samp>Performance Metrics</samp>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ahrar-1898&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00b4d8" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahrar-1898&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8" width="48%" />
+### 📊 <samp>Performance Metrics</samp>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ahrar-1898&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00b4d8"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahrar-1898&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8"
+    width="48%"
+  />
 </p>
 
 ### 📈 <samp>Activity Velocity</samp>
