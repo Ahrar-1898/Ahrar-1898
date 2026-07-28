@@ -76,8 +76,6 @@ I am a **Machine Learning Engineer** and **Generative AI Specialist** pursuing a
 | **Task Master** | Flask · Python | Scalable web management with integrated backend logic. |
 
 ---
-
-### 📊 <samp>Performance Metrics</samp>
 ### 📊 <samp>Performance Metrics</samp>
 
 <p align="center">
