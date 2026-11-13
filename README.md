@@ -232,20 +232,31 @@ flowchart TD
 ### GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ahrar-1898&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahrar-1898&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=Ahrar-1898&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+       alt="GitHub Statistics" />
+
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahrar-1898&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Top Languages" />
 </p>
 
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahrar-1898&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Ahrar-1898&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true"
+       width="100%"
+       alt="GitHub Activity Graph" />
 </p>
 
 ### Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahrar-1898/Ahrar-1898/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+  <img
+       src="https://raw.githubusercontent.com/Ahrar-1898/Ahrar-1898/output/github-contribution-grid-snake.svg"
+       width="100%"
+       alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
